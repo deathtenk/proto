@@ -1,10 +1,16 @@
 # proto
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure web appplication just to demonstrate the power of Clojure in web development
 
 ## Usage
 
-FIXME
+do the following in your environment:
+
+```
+  $ export SOME_MATH="2 * 10"
+  $ lein repl
+```
+then open up https://localhost:8080
 
 ## License
 
